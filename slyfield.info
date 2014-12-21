@@ -1,0 +1,5 @@
+name = slyfield
+package = EWL
+description = An online reporting system for EWL and Sense
+core = 7.x
+
